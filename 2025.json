@@ -20,25 +20,26 @@
 
     "May": {
         "1": {"rest": true, "n": "Праздник Весны и Труда"},
-        "2": {"rest": true},
-        "8": {"rest": true},
+        "2": {"move": true, "n": "с 04.01"},
+        "7": {"rest": false},
+        "8": {"move": true, "n": "с 23.02"},
         "9": {"rest": true, "n": "День Победы"}
     },
 
     "June": {
         "11": {"rest": false},
         "12": {"rest": true, "n": "День России"},
-        "13": {"rest": true}
+        "13": {"move": true, "n": "с 08.03"}
     },
 
     "November": {
-        "1": {"rest": false},
-        "3": {"rest": true},
+        "1": {"move": false, "n": "на 03.10"},
+        "3": {"move": true, "n": "с 01.10"},
         "4": {"rest": true, "n": "День народного единства"}
     },
 
     "December": {
-        "31": {"rest": true, "n": "Новый год"}
+        "31": {"move": true, "n": "c 05.01"},
     }
 
 }
