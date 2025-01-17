@@ -39,7 +39,7 @@
     },
 
     "December": {
-        "31": {"rest": true, "move": true, "n": "c 05.01"},
+        "31": {"rest": true, "move": true, "n": "c 05.01"}
     }
 
 }
