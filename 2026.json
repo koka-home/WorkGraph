@@ -1,8 +1,8 @@
 {
     "January": {
-        "3":    {"move": true, "move_str": "на 09.01"},
-        "4":    {"move": true, "move_str": "на 31.12"},
-        "1-6":  {"rest": true, "comment": "Новогодние каникулы"},
+        "3":    {"move": true, "move_str": "на 09.01", "comment": "Новогодние каникулы"},
+        "4":    {"move": true, "move_str": "на 31.12", "comment": "Новогодние каникулы"},
+        "1-2":  {"rest": true, "comment": "Новогодние каникулы"},
         "7":    {"rest": true, "comment": "Рождество Христово"},
         "8":    {"rest": true, "comment": "Новогодние каникулы"},
         "9":    {"rest": true, "move": true, "move_str": "с 04.01"}
