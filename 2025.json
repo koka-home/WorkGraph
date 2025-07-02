@@ -22,7 +22,6 @@
     "May": {
         "1": {"rest": true, "comment": "Праздник Весны и Труда"},
         "2": {"rest": true, "move": true, "move_str": "с 04.01"},
-        "7": {"rest": false},
         "8": {"rest": true, "move": true, "move_str": "с 23.02"},
         "9": {"rest": true, "comment": "День Победы"}
     },
