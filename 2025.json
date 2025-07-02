@@ -1,18 +1,18 @@
 {
     "January": {
-        "4":    {"move": true, "n": "на 02.05"},
-        "1-6":  {"rest": true, "n": "Новогодние каникулы"},
-        "7":    {"rest": true, "n": "Рождество Христово"},
-        "8":    {"rest": true, "n": "Новогодние каникулы"}
+        "4":    {"move": true, "move_str": "на 02.05"},
+        "1-6":  {"rest": true, "comment": "Новогодние каникулы"},
+        "7":    {"rest": true, "comment": "Рождество Христово"},
+        "8":    {"rest": true, "comment": "Новогодние каникулы"}
     },
 
     "February": {
-        "23": {"rest": true, "move": true, "n": "на 08.05", "n": "День защитника Отечества"}
+        "23": {"rest": true, "move": true, "move_str": "на 08.05", "comment": "День защитника Отечества"}
     },
 
     "March": {
         "7": {"rest": false},
-        "8": {"rest": true, "move": true, "n": "на 13.06", "n": "Международный женский день"}
+        "8": {"rest": true, "move": true, "move_str": "на 13.06", "comment": "Международный женский день"}
     },
 
     "April": {
@@ -20,27 +20,27 @@
     },
 
     "May": {
-        "1": {"rest": true, "n": "Праздник Весны и Труда"},
-        "2": {"rest": true, "move": true, "n": "с 04.01"},
+        "1": {"rest": true, "comment": "Праздник Весны и Труда"},
+        "2": {"rest": true, "move": true, "move_str": "с 04.01"},
         "7": {"rest": false},
-        "8": {"rest": true, "move": true, "n": "с 23.02"},
-        "9": {"rest": true, "n": "День Победы"}
+        "8": {"rest": true, "move": true, "move_str": "с 23.02"},
+        "9": {"rest": true, "comment": "День Победы"}
     },
 
     "June": {
         "11": {"rest": false},
-        "12": {"rest": true, "n": "День России"},
-        "13": {"rest": true, "move": true, "n": "с 08.03"}
+        "12": {"rest": true, "comment": "День России"},
+        "13": {"rest": true, "move": true, "move_str": "с 08.03"}
     },
 
     "November": {
-        "1": {"move": false, "n": "на 03.10"},
-        "3": {"rest": true, "move": true, "n": "с 01.10"},
-        "4": {"rest": true, "n": "День народного единства"}
+        "1": {"move": false, "move_str": "на 03.10"},
+        "3": {"rest": true, "move": true, "move_str": "с 01.10"},
+        "4": {"rest": true, "comment": "День народного единства"}
     },
 
     "December": {
-        "31": {"rest": true, "move": true, "n": "c 05.01"}
+        "31": {"rest": true, "move": true, "move_str": "c 05.01"}
     }
 
 }
