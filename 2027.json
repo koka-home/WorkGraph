@@ -1,0 +1,47 @@
+{
+    "January": {
+        "2":    {"move": true, "n": "на 05.11"},
+        "3":    {"move": true, "n": "на 31.12"},
+        "1-6":  {"rest": true, "n": "Новогодние каникулы"},
+        "7":    {"rest": true, "n": "Рождество Христово"},
+        "8":    {"rest": true, "n": "Новогодние каникулы"}
+    },
+
+    "February": {
+        "20": {"move": true, "n": "на 22.02"},
+        "22": {"rest": true, "move": true, "n": "с 20.02"},
+        "23": {"rest": true, "n": "День защитника Отечества"}
+    },
+
+    "March": {
+        "7": {"rest": false},
+        "8": {"rest": true, , "n": "Международный женский день"}
+    },
+
+    "April": {
+        "30": {"rest": false}
+    },
+
+    "May": {
+        "1": {"rest": true, "move": true, "n": "на 03.05", "n": "Праздник Весны и Труда"},
+        "3": {"rest": true, "move": true, "n": "с 01.05"},
+        "9": {"rest": true, "move": true, "n": "на 10.05", "n": "День Победы"},
+        "10": {"rest": true, "move": true, "n": "с 09.05"}
+    },
+
+    "June": {
+        "11": {"rest": false},
+        "12": {"rest": true, "move": true, "n": "на 14.06", "n": "День России"},
+        "14": {"rest": true, "move": true, "n": "с 12.06"}
+    },
+
+    "November": {
+        "3": {"rest": false},
+        "4": {"rest": true, "n": "День народного единства"}
+    },
+
+    "December": {
+        "31": {"rest": true, "move": true, "n": "c 03.01"}
+    }
+
+}
