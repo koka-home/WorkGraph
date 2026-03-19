@@ -35,7 +35,8 @@
 
     "November": {
         "3": {"rest": false},
-        "4": {"rest": true, "n": "День народного единства"}
+        "4": {"rest": true, "n": "День народного единства"},
+        "5": {"rest": true, "move": true, "n": "с 08.03"}
     },
 
     "December": {
